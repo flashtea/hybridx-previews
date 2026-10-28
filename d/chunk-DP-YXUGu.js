@@ -1,1 +1,0 @@
-var c=class{constructor(){this.acceptPrivacyPolicy=false,this.acceptTerms=false,this.acceptHealthDataProcessing=false,this.confirmMinimumAge=false,this.marketingOptIn=false;}},s$1=class s{},t={success:"Done",info:"Note",warn:"Heads up",error:"Blocked"};function e(a){return t[a]??t.info}var r=class{};export{c,e,r,s$1 as s};
