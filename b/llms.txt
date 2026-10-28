@@ -1,0 +1,43 @@
+# HybridX
+
+> An AI training planner for athletes who lift heavy and run long: one week for both, a reason for every session, and an offer to rebalance the week when you miss one.
+
+## What is HybridX?
+
+HybridX is a training app for hybrid athletes — people who run a serious barbell program (powerlifting, strength) and serious distance running in the same week. Most athletes like this keep two apps, and neither knows what the other put on the calendar. HybridX writes lifting and running into one AI-planned week, so Monday's squats already know Tuesday is goal pace.
+
+## Key Features
+
+- **AI Weekly Planning**: Describe what you want in plain language ("3 lifting days, 2 runs, keep Wednesday free") and get a full training week that balances lifting and running. The AI reads your recent training (up to the last 12 weeks; on day one, your setup answers) and your goal, and manages the interference between the two.
+- **Every Session Says Why**: Each planned session carries a short rationale — e.g. fives at RPE 7 rather than a top set, because tomorrow is goal-pace intervals.
+- **Plan That Adapts to Reality**: When you miss a session, add an unplanned run, or train harder than planned, HybridX offers to rebalance the rest of your week around what actually happened.
+- **AI Coach**: A coach chat that changes your actual plan — session swaps, rest-of-week adaptations, away mode for travel.
+- **Hybrid Circuits**: Hyrox-style circuit sessions (sled work, wall balls, lunges, running between stations) can be programmed alongside strength and running days.
+- **Watch Integration (two-way)**: Connect Garmin and planned runs push to your watch as structured sessions (intervals, pace/HR targets) while completed activities sync back. COROS, Wahoo, Polar, and Suunto work the same way via intervals.icu.
+- **Unified Logging**: Strength sets (weight, reps, RPE) and endurance sessions (pace, heart rate, distance) in one place, with offline support in the gym.
+- **Load Analytics**: Training load across both modalities.
+- **Goals & Weekly Schedule**: Set a goal like "Sub-3:30 Marathon" or "200 kg Deadlift" and the days you train; the plan builds toward it.
+- **Hybrid Athlete Score**: Free tool that rates combined strength and running from 0–100. Lifts are compared against StrengthLevel's 150M+ user-logged lifts, runs against age-graded standards. Five numbers (squat, deadlift, a run time, body weight, age), no sign-up.
+
+## Who is it for?
+
+- Lifters who run: a real barbell program plus distance running (5k to marathon), planned against each other
+- Runners who lift and do not want the lifting to be an afterthought
+- Hyrox athletes are supported via hybrid circuits, but the core of the app is barbell plus distance
+
+## Pricing
+
+- **Free, forever**: strength and endurance logging, analytics and race predictions, Garmin and intervals.icu sync, the Hybrid Athlete Score
+- **AI planner**: $9/month early-adopter price (list price $19/month; the discount is applied automatically at checkout and held for as long as you stay subscribed). The first 14 days are free from sign-up, no card needed. Covers AI workout generation, AI modifications, and AI coach chat.
+
+## Founded by
+
+Christian Hofer — deadlifted 300 kg (2024), then built HybridX and trained a 3:28 marathon on it (Vienna, 2026) while keeping the barbell. The two results are about two years apart, not held at the same time.
+
+## Links
+
+- [HybridX](https://www.hybridx.app): the app and the landing page
+- [Blog](https://www.hybridx.app/blog): training articles for hybrid athletes
+- [Hybrid Athlete Score](https://www.hybridx.app/score): the free 0–100 tool, no sign-up
+- [Instagram](https://instagram.com/hybridx.app)
+- [X](https://x.com/hybridxapp)

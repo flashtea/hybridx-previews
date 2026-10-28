@@ -1,0 +1,16 @@
+{
+  "BadCredentialsException": "The entered login credentials are incorrect.",
+  "UserAlreadyExistsException": "An account with this email address already exists. If you have an account, please sign in or use the password reset feature.",
+  "UserNotActiveForGymException": "The user account is not yet activated for the gym.",
+  "UserNotVerifiedException": "The user account is not yet verified. Please check your emails and click on the verification link to activate your account. <a href=\"/auth/resend-verification\" class=\"text-0 font-semibold\">Resend verification link</a>",
+  "VerificationTokenExpiredException": "The link is invalid or has already been used, please <a href=\"/auth/resend-verification\" class=\"text-0 font-semibold\">request again here</a>.",
+  "MembershipPauseException": "A membership can only be paused every 6 months. The next pause can be started on {nextPossiblePause}.",
+  "CourseGroupInUseException": "The group cannot be deleted because courses are still assigned to it.",
+  "InvalidMagicLinkException": "The magic link is invalid or has already been used.",
+  "UserNotFoundException": "No account was found for this email address. Please sign up first or double-check the email.",
+  "InvalidTokenException": "The link is invalid or has already been used, please <a href=\"/auth/send-password-reset\" class=\"text-0 font-semibold\">request again here</a>.",
+  "InvalidPasswordException": "The entered password is incorrect.",
+  "InvalidSignupRequestException": "The signup request is invalid. Please check your input and try again.",
+  "RateLimitException": "Too many requests. Please wait a moment and try again.",
+  "WeakPasswordException": "The password must be between 10 and 255 characters."
+}
