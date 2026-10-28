@@ -1,0 +1,22 @@
+<!-- The @hybridxapp profile header, 3:1. Rendered by scripts/generate-icons.sh.
+     X crops this hard and drops the avatar over the lower left, so everything
+     that must survive sits right of centre. Was the card era: a yellow wordmark,
+     a filled panel of fake app rows with one washed yellow, a yellow button and
+     three decorative diagonals. -->
+<svg width="1500" height="500" viewBox="0 0 1500 500" xmlns="http://www.w3.org/2000/svg"
+     font-family="Plus Jakarta Sans, sans-serif">
+  <rect width="1500" height="500" fill="#141417"/>
+
+  <text x="700" y="130" font-family="monospace" font-size="32" font-weight="700"
+        letter-spacing="9" fill="#e9e5db">HYBRID<tspan fill="#eda54a">X</tspan></text>
+  <text x="700" y="200" font-size="38" font-weight="300" fill="#e9e5db">Adaptive training for hybrid athletes.</text>
+  <rect x="700" y="240" width="620" height="1" fill="#312f2c"/>
+
+  <text x="700" y="294" font-size="22" font-weight="600" fill="#e9e5db">Strength</text>
+  <rect x="700" y="310" width="390" height="14" fill="#ded9cc"/>
+  <rect x="700" y="324" width="620" height="2" fill="#312f2c"/>
+
+  <text x="700" y="384" font-size="22" font-weight="600" fill="#e9e5db">Running</text>
+  <rect x="701" y="401" width="229" height="12" fill="none" stroke="#ded9cc" stroke-width="2"/>
+  <rect x="700" y="414" width="620" height="2" fill="#312f2c"/>
+</svg>
