@@ -191,7 +191,7 @@
     /* ── The first screen, mirrored ─────────────────────────────────────────
        Everything below restates the nav and the hero of landing.component.scss
        (and the steps of _landing-system.scss) for the shell: the morning frame
-       with its hour, and the words on the ground below it. The shell is not inside the
+       and the words on the ground below it. The shell is not inside the
        landing component, so Angular's scoping attribute never reaches it:
        without this the shell paints unstyled markup and the crossfade drops a
        different page on the visitor a second later — which is the one thing
@@ -326,22 +326,6 @@
       background: #181818;
     }
     #hx-shell .opener img { display: block; width: 100%; height: 100%; max-width: none; object-fit: cover; }
-    #hx-shell .opener-label {
-      position: absolute;
-      bottom: 16px;
-      left: 16px;
-      padding: 4px 12px;
-      border-radius: 9999px;
-      background: rgba(19, 18, 9, 0.6);
-      -webkit-backdrop-filter: blur(12px);
-      backdrop-filter: blur(12px);
-      font-family: "Geist Mono", ui-monospace, monospace;
-      font-size: 0.75rem;
-      line-height: 1rem;
-      letter-spacing: 0.08em;
-      text-transform: uppercase;
-      color: #ece8de;
-    }
     #hx-shell .hero-copy { padding-top: 48px; padding-bottom: 80px; }
     #hx-shell .eyebrow-pill {
       display: inline-flex;
@@ -427,7 +411,6 @@
     @media (min-width: 768px) {
       #hx-shell .wrap { max-width: calc(1120px + 2 * 24px); padding-inline: 24px; }
       #hx-shell .opener { height: 64svh; min-height: 480px; }
-      #hx-shell .opener-label { bottom: 24px; left: max(24px, calc((100% - 1120px) / 2)); }
       #hx-shell .hero-sub { font-size: 1.25rem; line-height: 1.75rem; }
     }
     @media (min-width: 1024px) {
@@ -555,7 +538,6 @@
       <section class="hero">
         <figure class="opener hero-opener" aria-hidden="true">
           <img src="assets/images/landing/seven-wide-1920.webp" srcset="assets/images/landing/seven-wide-1280.webp 1280w, assets/images/landing/seven-wide-1920.webp 1920w" sizes="(max-aspect-ratio: 1/1) 200vh, 100vw" width="1920" height="1088" alt decoding="async" fetchpriority="high">
-          <span class="opener-label">Morning</span>
         </figure>
         <div class="wrap hero-copy">
           <div class="hero-lead" style="--i: 0">
@@ -585,6 +567,6 @@
     </main>
   </div>
 
-<script src="polyfills-ZMOOH5EP.js" type="module"></script><script src="main-6DAWAEIF.js" type="module"></script></body>
+<script src="polyfills-ZMOOH5EP.js" type="module"></script><script src="main-MPVUZ2FA.js" type="module"></script></body>
 
 </html>
