@@ -1,0 +1,9 @@
+<!-- The @hybridxapp avatar. Rendered by scripts/generate-icons.sh.
+     Ink wordmark, one amber letter — the same lockup as the app icon and the
+     landing's own mark. Was near-white on the pre-migration #1a1a1e. -->
+<svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg"
+     font-family="Plus Jakarta Sans, sans-serif">
+  <rect width="400" height="400" fill="#141417"/>
+  <text x="200" y="220" text-anchor="middle" font-size="56" font-weight="600"
+        letter-spacing="6" fill="#e9e5db">HYBRID<tspan fill="#eda54a">X</tspan></text>
+</svg>
